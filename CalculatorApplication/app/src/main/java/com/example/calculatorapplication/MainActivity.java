@@ -82,8 +82,6 @@ public class MainActivity extends AppCompatActivity {
             case R.id.division:
                 op = "/";
                 break;
-
-
         }
     }
 
